@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 # 💫 About Me:
-Hi I am Parikhit, A Passionate Frontend Developer
+👋 Hello, I'm an Ambitious Frontend Developer with a Vision for Full Stack Mastery!
 
 
 ## 🌐 Socials:
@@ -23,8 +23,7 @@ Hi I am Parikhit, A Passionate Frontend Developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Parikhit Baruah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
