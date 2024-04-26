@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Parikhit Baruah</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 # 💫 About Me:
